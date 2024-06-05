@@ -9,7 +9,8 @@ This is a web application to enter and manage data for children. The application
 ## Setup Instructions
 
 1. Clone the repository:
-   git clone https://github.com/shabnamtabatabaian/childrenData.git
+   ```sh
+   git clone https://github.com/shabnamtabatabaian/ChildrenWebApp.git
    cd ChildrenWebApp
 
 2. Open the solution file ChildrenWebApp.sln in Visual Studio 2022.
