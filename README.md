@@ -15,11 +15,15 @@ This is a web application to enter and manage data for children. The application
 
 2. Open the solution file ChildrenWebApp.sln in Visual Studio 2022.
 
-3. Build the project to restore the necessary packages.
+3. Go to Package Manager Console and run the command:
+   ```sh
+   update-database	
 
-4. Run the application.
+4. Build the project to restore the necessary packages.
 
-5. Open your browser and navigate to https://localhost:44388 (or the URL provided by Visual Studio).
+5. Run the application.
+
+6. Open your browser and navigate to https://localhost:44388 (or the URL provided by Visual Studio).
 
 
 ## Usage
